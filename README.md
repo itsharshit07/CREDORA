@@ -1,41 +1,93 @@
-<<<<<<< HEAD
-MULTILINGUAL FINANCIAL LOAN ADVISOR 
-Next.js
-=======
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+md
+# Credora AI-Powered Financial Assistant
 
-## Getting Started
+## 📌 Team: FIN-SQUAD (S9)
+### 👥 Team Members:
+- **Harshit Gola** - Full Stack Developer
+- **Prince Kumar** - Backend Developer
+- **Sarika Kumari** - Frontend Developer
+- **Shreya Singh** - Backend Developer
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Problem Statement
+Many individuals, especially young adults and those in rural and urban areas, struggle to understand loans and credit scores. This lack of financial literacy leads many into debt traps. People are often unaware of whether they qualify for a loan or how to maintain a good credit score.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+To address this issue, we have developed **Credora**, a smart AI-powered financial guide that acts as a personal assistant to help users navigate the complexities of loans, credit scores, and budget tracking. Credora provides real-time recommendations on saving, borrowing, and repaying, fostering a more financially stable community.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🎯 Features
+- ✅ **Multilingual Conversational AI:** Users can ask queries in multiple languages, and Credora will seamlessly understand and respond in their preferred language.
+- 🎙 **Speech-to-Text & Text-to-Speech Integration:** Users can interact via voice or text for enhanced accessibility.
+- 📊 **Personalized Financial Roadmap:** Step-by-step plans to improve credit scores, manage debts, and save for future expenses.
+- 🏦 **Community Finance & Peer Learning:** Users can share financial success stories and seek advice from others, moderated by AI for verified financial tips.
+- 🔍 **Loan Eligibility Checker:** Users can check whether they qualify for a loan based on their financial profile.
+- 🧮 **EMI Calculator:** Computes EMI based on loan amount, interest rate, and tenure.
+- 📂 **Dashboard:** A centralized location for users to track past and current loans.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 💡 What Makes Credora Unique?
+- 🌍 **Multilingual Chat & Voice Support**
+- 🤖 **AI-Powered Financial Insights**
+- 🎤 **Speech-to-Text & Text-to-Speech Capabilities**
+- 📈 **Personalized Financial Guidance**
+- 🏘 **Community-Driven Learning Platform**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠 Tech Stack
+- 🎨 **Frontend:** Next.js with Tailwind CSS for a smooth user experience.
+- ⚙ **Backend:** Node.js for efficient and scalable performance.
+- 🔗 **APIs Used:**
+  - Text Translation (Servam API)
+  - Text-to-Speech & Speech-to-Text APIs
+- 💰 **Loan Processing Features:**
+  - Loan History: Displays previous loan records for reference.
+  - EMI Calculator: Computes EMI based on loan amount, interest rate, and duration.
+  - Loan Eligibility Check: Evaluates eligibility based on income, credit score, and loan amount.
+  - Multilingual Chatbot: Enables seamless communication in multiple languages.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🎬 Prototype Demo
+📹 [Watch the Prototype Demo](https://drive.google.com/file/d/1kY60FKwjU2feI1qKuNlPn4XpFiDNjQDo/view?usp=sharing)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
->>>>>>> d8a4160 (Initial commit)
+---
+
+## 🏗 How to Run the Project
+1. Clone the repository:
+   sh
+   git clone https://github.com/your-repo/credora.git
+   cd credora
+   
+2. Install dependencies:
+   sh
+   npm install
+   
+3. Start the development server:
+   sh
+   npm run dev
+   
+
+---
+
+## 📈 Future Scope
+- 🔥 Expand AI capabilities for personalized financial advice.
+- 🏦 Integrate with banking systems for real-time credit score evaluation.
+- 🔒 Enhance security and data privacy features.
+
+---
+
+## 👥 Contributors
+We welcome contributions! Feel free to fork this repository and submit a pull request.
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.
+
+---
+
+🙏 Thank you for exploring Credora! 🚀
