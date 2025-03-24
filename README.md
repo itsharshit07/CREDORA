@@ -1,4 +1,4 @@
-CREDORA (under development)
+## CREDORA (under development)  
 AI-Powered Financial Assistant
 
 ## 🚀 Problem Statement
