@@ -1,14 +1,5 @@
-md
-# Credora AI-Powered Financial Assistant
-
-## 📌 Team: FIN-SQUAD (S9)
-### 👥 Team Members:
-- **Harshit Gola** - Full Stack Developer
-- **Prince Kumar** - Backend Developer
-- **Sarika Kumari** - Frontend Developer
-- **Shreya Singh** - Backend Developer
-
----
+CREDORA (under development)
+AI-Powered Financial Assistant
 
 ## 🚀 Problem Statement
 Many individuals, especially young adults and those in rural and urban areas, struggle to understand loans and credit scores. This lack of financial literacy leads many into debt traps. People are often unaware of whether they qualify for a loan or how to maintain a good credit score.
@@ -41,33 +32,25 @@ To address this issue, we have developed **Credora**, a smart AI-powered financi
 - 🎨 **Frontend:** Next.js with Tailwind CSS for a smooth user experience.
 - ⚙ **Backend:** Node.js for efficient and scalable performance.
 - 🔗 **APIs Used:**
-  - Text Translation (Servam API)
+  - Text Translation (Gemini API, Servam API)
   - Text-to-Speech & Speech-to-Text APIs
 - 💰 **Loan Processing Features:**
   - Loan History: Displays previous loan records for reference.
   - EMI Calculator: Computes EMI based on loan amount, interest rate, and duration.
   - Loan Eligibility Check: Evaluates eligibility based on income, credit score, and loan amount.
   - Multilingual Chatbot: Enables seamless communication in multiple languages.
-
----
-
-## 🎬 Prototype Demo
-📹 [Watch the Prototype Demo](https://drive.google.com/file/d/1kY60FKwjU2feI1qKuNlPn4XpFiDNjQDo/view?usp=sharing)
-
----
+ 
+  ---
 
 ## 🏗 How to Run the Project
 1. Clone the repository:
-   sh
    git clone https://github.com/your-repo/credora.git
    cd credora
    
-2. Install dependencies:
-   sh
+2. Install all the necessary dependencies:
    npm install
    
 3. Start the development server:
-   sh
    npm run dev
    
 
